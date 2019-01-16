@@ -1,0 +1,9 @@
+[package]
+name = "rusty-tarantool"
+version = "0.1.0"
+authors = ["and.sergeev <and.sergeev@corp.mail.ru>"]
+edition = "2018"
+
+[lib]
+name = "tarantool"
+edition = "2018"
